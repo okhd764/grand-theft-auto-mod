@@ -1,0 +1,9 @@
+yarn-error.log*
+*.tgz
+*.log
+.next/
+.env.local
+.cache/
+npm-debug.log*
+build/
+coverage/
